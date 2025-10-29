@@ -1,12 +1,12 @@
 # Système de management - {Objet}
-Nom du fichier : {nom exact du fichier : {Système de management, ex : SMSI} - {Numéro de section : XY} - {TYPE : POL | PRO | ENR} - [Nom du document] - TLP-{CLASSIFICATION : CLEAR | GREEN | AMBER | RED}}.{suffixe}
 
-Version du {jj}/{mm}/{aaaa} ({Document de travail | Pour validation | Validé})
-
-Destinataires : {Destinataires du document}
-
+**Nom du fichier** : {nom exact du fichier : {Numéro de section : XY} - {TYPE : POL | PRO | ENR} - [Nom du document] - TLP {CLASSIFICATION : CLEAR | GREEN | AMBER | RED}}.{suffixe}<br>
+**Version** du {jj}/{mm}/{aaaa} ({Document de travail | Pour validation | Validé})<br>
+**Destinataires** : {Destinataires du document}
 
 ## Objet du document
+{NOTE AU REDACTEUR : ce document a été créé pour un système de management {type, ex : de la sécurité de l'information (SMSI)} {contexte particulier, ex : pour une organisation qui développe elle-même ses outils informatiques} }
+
 Ce document {synthèse de l'objet du document}.
 
 Conformément à la section {section}.{sous-section} de l’[{libellé court du document de référence}] :
@@ -14,7 +14,10 @@ Conformément à la section {section}.{sous-section} de l’[{libellé court du 
 - {...} ;
 - il {détail de l'objet du document}.
 
+Il s'applique à {domaine d'application du document, ex : ensemble du périmètre du système de management}.
+
 ## Informations de versions du document
+
 | <center>**Date**</center> | <center>**Action**</center> | <center>**Auteur**</center> | <center>**État**</center> |
 | --- | --- | --- | --- |
 | {jj}/{mm}/{aaaa} | {Description de l'action réalisée sur le document} | {Prénom} {NOM} | {Document de travail \| Pour validation \| Validé} |

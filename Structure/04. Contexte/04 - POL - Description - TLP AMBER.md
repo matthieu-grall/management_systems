@@ -5,6 +5,7 @@
 **Destinataires** : parties intéressées du système de management
 
 ## Objet du document
+
 {_**NOTE AU REDACTEUR : ce document a originellement été créé pour un système de management de la sécurité de l'information (SMSI) mais peut être appliqué, ou intégrer, d'autres sujets (ex : protection de la vie privée, management des données)**_}
 
 Ce document décrit le système de management mis en place par l'organisation, conformément à la section 4.4 de l’[ISO/IEC 27001].
@@ -21,6 +22,7 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Convention d’écriture
+
 Les libellés entre crochets (ex : [ISO/IEC 27001]) correspondent aux documents de référence et fichiers composant le système de management présentés ci-dessous.
 
 ## Informations de versions du document

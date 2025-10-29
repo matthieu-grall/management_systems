@@ -4,6 +4,9 @@
 **Destinataires** : Parties prenantes du système de management
 
 ## Objet du document
+
+{_**NOTE AU REDACTEUR : ce document a été créé pour un système de management de la protection des données (sécurité de l'information ET protection de la vie privée) pour une organisation qui développe elle-même ses outils informatiques**_ }
+
 Ce document décrit la **procédure à suivre pour intégrer la protection des données (sécurité de l'information et protection de la vie privée) dans les projets**.
 
 Conformément à la section 5.8 de l’annexe A de l’[ISO 27001] et à l’annexe B.8 de l’[ISO 27701] : 
@@ -22,6 +25,7 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Informations de versions du document
+
 | <center>**Date**</center> | <center>**Action**</center> | <center>**Auteur**</center> | <center>**État**</center> |
 | --- | --- | --- | --- |
 | {jj}/{mm}/{aaaa} | {Description de l'action réalisée sur le document} | {Prénom} {NOM} | {Document de travail \| Pour validation \| Validé} |

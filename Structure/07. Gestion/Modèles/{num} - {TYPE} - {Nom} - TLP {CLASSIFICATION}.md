@@ -5,7 +5,8 @@
 **Destinataires** : {Destinataires du document}
 
 ## Objet du document
-{NOTE AU REDACTEUR : ce document a été créé pour un système de management {type, ex : de la sécurité de l'information (SMSI)} {contexte particulier, ex : pour une organisation qui développe elle-même ses outils informatiques} }
+
+{_**NOTE AU REDACTEUR : ce document a été créé pour un système de management {type, ex : de la sécurité de l'information (SMSI)} {contexte particulier, ex : pour une organisation qui développe elle-même ses outils informatiques}**_ }
 
 Ce document {synthèse de l'objet du document}.
 

@@ -7,10 +7,19 @@
 Ce document décrit la **procédure à suivre pour intégrer la protection des données (sécurité de l'information et protection de la vie privée) dans les projets**.
 
 Conformément à la section 5.8 de l’annexe A de l’[ISO 27001] et à l’annexe B.8 de l’[ISO 27701] : 
--	elle intègre la protection des données durant tout le cycle de vie des projets, dès leur conception (notion de _security/privacy by design_) et par défaut (notion de _security/privacy by default_) et jusqu’à leur fin de vie ;
--	elle définit les actions à mettre en œuvre dans le cadre des projets pour garantir la protection des données.
+- il intègre la protection des données durant tout le cycle de vie des projets, dès leur conception (notion de _security/privacy by design_) et par défaut (notion de _security/privacy by default_) et jusqu’à leur fin de vie ;
+- il définit les actions à mettre en œuvre dans le cadre des projets pour garantir la protection des données.
 
-Elle s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
+Il s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
+
+Il est placé sous la **licence** suivante :
+_[Creative Commons Attribution 4.0 International License][cc-by]_.
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Informations de versions du document
 | <center>**Date**</center> | <center>**Action**</center> | <center>**Auteur**</center> | <center>**État**</center> |

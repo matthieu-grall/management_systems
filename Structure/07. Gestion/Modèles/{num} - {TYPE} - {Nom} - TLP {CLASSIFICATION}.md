@@ -16,6 +16,15 @@ Conformément à la section {section}.{sous-section} de l’[{libellé court du 
 
 Il s'applique à {domaine d'application du document, ex : ensemble du périmètre du système de management}.
 
+Il est placé sous la **licence** suivante :
+_[Creative Commons Attribution 4.0 International License][cc-by]_.
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 ## Informations de versions du document
 
 | <center>**Date**</center> | <center>**Action**</center> | <center>**Auteur**</center> | <center>**État**</center> |

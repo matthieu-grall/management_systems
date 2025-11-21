@@ -3,17 +3,20 @@
 **Version** du {jj}/{mm}/{aaaa} ({Document de travail | Pour validation | Validé})<br>
 **Destinataires** : Parties prenantes du système de management
 
-## Objet du document
+## [Avant-propos]
 
-{_**NOTE AU REDACTEUR : ce document a été créé pour un système de management de la protection des données (sécurité de l'information ET protection de la vie privée) pour une organisation qui développe elle-même ses outils informatiques**_ }
+Ce document a été créé pour un système de management de la protection des données (sécurité de l'information ET protection de la vie privée) pour une organisation qui développe elle-même ses outils informatiques.
 
-Ce document décrit la **procédure à suivre pour intégrer la protection des données (sécurité de l'information et protection de la vie privée) dans les projets**.
+Les principaux **contributeurs** sont les suivants :
+- IMINETI by NIJI ;
+- Matthieu GRALL.
 
-Conformément à la section 5.8 de l’annexe A de l’[ISO 27001] et à l’annexe B.8 de l’[ISO 27701] : 
-- il intègre la protection des données durant tout le cycle de vie des projets, dès leur conception (notion de _security/privacy by design_) et par défaut (notion de _security/privacy by default_) et jusqu’à leur fin de vie ;
-- il définit les actions à mettre en œuvre dans le cadre des projets pour garantir la protection des données.
-
-Il s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
+Les **versions** du document sont les suivantes :
+| <center>Version</center> | <center>Action</center> | <center>Éditeur</center> |
+| --- | --- | --- |
+| 2024 (v0.1) | Création du document | IMINETI by NIJI |
+| 01/11/2025 (v0.2) | Généralisation, transformation en _markdown_ et corrections multiples | Matthieu GRALL |
+| 21/11/2025 (v0.3) | Ajout de l'avant-propos et corrections mineures | Matthieu GRALL |
 
 Il est placé sous la **licence** suivante :
 _[Creative Commons Attribution 4.0 International License][cc-by]_.
@@ -23,6 +26,16 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Objet du document
+
+Ce document décrit la **procédure à suivre pour intégrer la protection des données (sécurité de l'information et protection de la vie privée) dans les projets**.
+
+Conformément à la section 5.8 de l’annexe A de l’[ISO 27001] et à l’annexe B.8 de l’[ISO 27701] : 
+- il intègre la protection des données durant tout le cycle de vie des projets, dès leur conception (notion de _security/privacy by design_) et par défaut (notion de _security/privacy by default_) et jusqu’à leur fin de vie ;
+- il définit les actions à mettre en œuvre dans le cadre des projets pour garantir la protection des données.
+
+Il s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
 
 ## Informations de versions du document
 

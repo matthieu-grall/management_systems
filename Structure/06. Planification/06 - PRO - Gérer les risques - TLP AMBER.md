@@ -3,20 +3,18 @@
 **Version** du {jj}/{mm}/{aaaa} ({Document de travail | Pour validation | Validé})<br>
 **Destinataires** : Parties prenantes du système de management
 
-## Objet du document
+## [Avant-propos]
 
-{_**NOTE AU REDACTEUR : ce document a été créé pour un système de management de la protection des données (sécurité de l'information et protection de la vie privée) d'une petite organisation**_ }
+Ce document a été créé pour un système de management de la protection des données (sécurité de l'information ET protection de la vie privée) d'une petite organisation.
 
-Ce document décrit la **méthode de gestion des risques de sécurité de l'information qui pèsent sur l'organisation**.
+Les principaux **contributeurs** sont les suivants :
+- Matthieu GRALL.
 
-Conformément à la section 6.1 de l’[ISO/IEC 27001] :
--	il présente la démarche permettant d’apprécier les risques ;
--	il décrit comment traiter les risques ;
--	il explique les modalités d’amélioration continue.
-
-C'est une application d’[EBIOS _Risk Manager_] au contexte spécifique du système de management. Elle est compatible avec les normes [ISO 31000] et [ISO/IEC 27005].
-
-Il s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
+Les **versions** du document sont les suivantes :
+| <center>Version</center> | <center>Action</center> | <center>Éditeur</center> |
+| --- | --- | --- |
+| 01/11/2025 (v0.1) | Création du document | Matthieu GRALL |
+| 21/11/2025 (v0.2) | Ajout de l'avant-propos et corrections mineures | Matthieu GRALL |
 
 Il est placé sous la **licence** suivante :
 _[Creative Commons Attribution 4.0 International License][cc-by]_.
@@ -26,6 +24,19 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Objet du document
+
+Ce document décrit la **méthode de gestion des risques liés à la protection des données (sécurité de l'information et protection de la vie privée) qui pèsent sur l'organisation et sur les personnes concernées**.
+
+Conformément à la section 6.1 de l’[ISO/IEC 27001] :
+-	il présente la démarche permettant d’apprécier les risques ;
+-	il décrit comment traiter les risques ;
+-	il explique les modalités d’amélioration continue.
+
+C'est une application d’[EBIOS _Risk Manager_] au contexte spécifique du système de management. Elle est compatible avec les normes [ISO 31000] et [ISO/IEC 27005].
+
+Il s'applique à tous les projets numériques menés dans le périmètre d'application du système de management.
 
 ## Informations de versions du document
 
@@ -44,7 +55,7 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [6. Surveiller et revoir les risques](#6-surveiller-et-revoir-les-risques)<br>
 [7. Communiquer sur les risques](#7-communiquer-sur-les-risques)<br>
 
-## Procédure : l'application d'[EBIOS _Risk Manager_] à l'organsiation
+## Procédure : l'application d'[EBIOS _Risk Manager_] à l'organisation
 
 Note : la présente procédure est faite de telle sorte que les itérations successives de l’étude des risques produisent des résultats cohérents, valides et comparables.
 
@@ -54,7 +65,7 @@ Note : ce sous-processus fait partie du traitement des risques de l’[ISO/IEC 2
 
 Dans le contexte de l'organisation où le socle de règles est constitué par sa [Politique générale], la démarche est la suivante :
 1. évaluer la **pertinence des règles**, dans la [Déclaration d’applicabilité], au regard :
-    1. des bonnes pratiques de sécurité de l’information ;
+    1. des bonnes pratiques de sécurité de l’information et de protection de la vie privée ;
     2. des évolutions du contexte de l'organisation ;
     3. des difficultés d’application identifiées (ex : au regard des demandes de dérogation) ;
 2. évaluer la **conformité aux règles** sur la base du contrôle interne ;

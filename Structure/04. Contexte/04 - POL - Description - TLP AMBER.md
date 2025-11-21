@@ -4,13 +4,18 @@
 **Version** du {jj}/{mm}/{aaaa} ({Document de travail | Pour validation | Validé})<br>
 **Destinataires** : parties intéressées du système de management
 
-## Objet du document
+## [Avant-propos]
 
-{_**NOTE AU REDACTEUR : ce document a originellement été créé pour un système de management de la sécurité de l'information (SMSI) mais peut être appliqué, ou intégrer, d'autres sujets (ex : protection de la vie privée, management des données)**_}
+Ce document a originellement été créé pour un système de management de la sécurité de l'information (SMSI) mais peut être appliqué, ou intégrer, d'autres sujets (ex : protection de la vie privée, management des données).
 
-Ce document décrit le système de management mis en place par l'organisation, conformément à la section 4.4 de l’[ISO/IEC 27001].
+Les principaux **contributeurs** sont les suivants :
+- Matthieu GRALL.
 
-Il s'applique à l'ensemble du périmètre du système de management.
+Les **versions** du document sont les suivantes :
+| <center>Version</center> | <center>Action</center> | <center>Éditeur</center> |
+| --- | --- | --- |
+| 01/11/2025 (v0.1) | Création du document | Matthieu GRALL |
+| 21/11/2025 (v0.2) | Ajout de l'avant-propos et corrections mineures | Matthieu GRALL |
 
 Il est placé sous la **licence** suivante :
 _[Creative Commons Attribution 4.0 International License][cc-by]_.
@@ -20,6 +25,12 @@ _[Creative Commons Attribution 4.0 International License][cc-by]_.
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Objet du document
+
+Ce document décrit le système de management mis en place par l'organisation, conformément à la section 4.4 de l’[ISO/IEC 27001].
+
+Il s'applique à l'ensemble du périmètre du système de management.
 
 ## Convention d’écriture
 
